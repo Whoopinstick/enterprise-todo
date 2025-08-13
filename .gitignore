@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / compiled files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg-info/
+.pytest_cache/
+
+# Distribution / packaging
+.eggs/
+dist/
+build/
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# uv-generated files
+# uv.lock
+
+# Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific
+.DS_Store
+Thumbs.db

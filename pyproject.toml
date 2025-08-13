@@ -1,0 +1,6 @@
+[project]
+name = "enterprise-todo"
+version = "0.1.0"
+description = "An over-engineered todo app"
+requires-python = ">=3.13"
+dependencies = []
