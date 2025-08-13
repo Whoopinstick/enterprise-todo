@@ -11,7 +11,7 @@
 
 ## usage/documentation/reference
 
-## contributing
+## Contributing
 
 ## sample READMES
 #### https://github.com/wagslane/go-rabbitmq
